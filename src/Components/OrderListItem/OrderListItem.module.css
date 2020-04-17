@@ -1,0 +1,8 @@
+.OrderListItem {
+  width: 100%;
+  padding: 0px 16px;
+  border: 1px solid lightgray;
+  margin: 8px 0px;
+  box-shadow: 1px 1px lightgray;
+  border-radius: 5px;
+}
