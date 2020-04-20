@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.61bcfed1.chunk.css",
-    "main.js": "/static/js/main.3007afff.chunk.js",
-    "main.js.map": "/static/js/main.3007afff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9018ea8a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9018ea8a.js.map",
-    "static/js/2.f15e6d71.chunk.js": "/static/js/2.f15e6d71.chunk.js",
-    "static/js/2.f15e6d71.chunk.js.map": "/static/js/2.f15e6d71.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ca030fc396cef47286f8b4e65c678d99.js": "/precache-manifest.ca030fc396cef47286f8b4e65c678d99.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.61bcfed1.chunk.css.map": "/static/css/main.61bcfed1.chunk.css.map",
-    "static/js/2.f15e6d71.chunk.js.LICENSE.txt": "/static/js/2.f15e6d71.chunk.js.LICENSE.txt",
-    "static/media/burger-logo.png": "/static/media/burger-logo.b8503d26.png"
+    "main.css": "/batkhishigt/burger/static/css/main.61bcfed1.chunk.css",
+    "main.js": "/batkhishigt/burger/static/js/main.69439e1b.chunk.js",
+    "main.js.map": "/batkhishigt/burger/static/js/main.69439e1b.chunk.js.map",
+    "runtime-main.js": "/batkhishigt/burger/static/js/runtime-main.d203c018.js",
+    "runtime-main.js.map": "/batkhishigt/burger/static/js/runtime-main.d203c018.js.map",
+    "static/js/2.f15e6d71.chunk.js": "/batkhishigt/burger/static/js/2.f15e6d71.chunk.js",
+    "static/js/2.f15e6d71.chunk.js.map": "/batkhishigt/burger/static/js/2.f15e6d71.chunk.js.map",
+    "index.html": "/batkhishigt/burger/index.html",
+    "precache-manifest.09a29729335f11201be0e4260bcb03f9.js": "/batkhishigt/burger/precache-manifest.09a29729335f11201be0e4260bcb03f9.js",
+    "service-worker.js": "/batkhishigt/burger/service-worker.js",
+    "static/css/main.61bcfed1.chunk.css.map": "/batkhishigt/burger/static/css/main.61bcfed1.chunk.css.map",
+    "static/js/2.f15e6d71.chunk.js.LICENSE.txt": "/batkhishigt/burger/static/js/2.f15e6d71.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/batkhishigt/burger/static/media/burger-logo.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9018ea8a.js",
+    "static/js/runtime-main.d203c018.js",
     "static/js/2.f15e6d71.chunk.js",
     "static/css/main.61bcfed1.chunk.css",
-    "static/js/main.3007afff.chunk.js"
+    "static/js/main.69439e1b.chunk.js"
   ]
 }
